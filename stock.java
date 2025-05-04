@@ -1,6 +1,9 @@
 import java.math.BigDecimal;
 import java.util.Objects;
 
+import java.math.BigDecimal;
+import java.util.Objects;
+
 public class Stock {
     private String tickerSymbol;
     private String tickerName;
